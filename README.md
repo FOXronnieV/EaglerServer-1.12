@@ -25,7 +25,7 @@ enter the following: `cd bungee && sudo java -jar bungee.jar`
 <br>
 then, make a new tab and enter the following: cd server && sudo java -jar server.jar
 <br>
-Now go to the ports area and forward (and make public) port `8081`
+Now go to the ports area and forward (and make public) port `7860`
 <br>
 Load up the client! When you are in, copy the link, paste it in the add server section, replace https:// with wss:// and join!
 Your eaglercraft server is setup!

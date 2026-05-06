@@ -1,0 +1,51 @@
+vehicle:
+  UW-MS-VX:
+    name: Apache Black
+    vehicleType: HELICOPTER
+    skinDamage: 1142
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 96.73999999999833
+    benzineVerbruik: 0.01
+    hornEnabled: false
+    health: 400.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.01
+    maxSpeed: 0.7
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.02
+    rotateSpeed: 10
+    maxSpeedBackwards: 0.35
+    owner: 71833556-34d6-3645-a2a4-ad2f788a0faa
+    nbtValue: ''
+    riders: []
+    members: []
+  KI-EL-WW:
+    name: Jeep Blue
+    vehicleType: CAR
+    skinDamage: 1073
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 97.29999999999862
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 350.0
+    kofferbak: true
+    kofferbakRows: 1
+    kofferbakData: []
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.65
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 71833556-34d6-3645-a2a4-ad2f788a0faa
+    nbtValue: ''
+    riders: []
+    members: []
